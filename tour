@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <h1>Welcome to Lahore!</h1>
+        <p>Join us on an exciting tour of Lahore, the cultural heart of Pakistan.</p>
+      
+        <h2>Lahore Fort</h2>
+        <p>Visit the Lahore Fort, also known as Shahi Qila, a UNESCO World Heritage Site showcasing stunning Mughal architecture.</p>
+        <img src="lahore-pakistan-march-2019-view-fort-1355754446" alt="Lahore Fort">
+      
+        <h2>Badshahi Mosque</h2>
+        <p>Explore the majestic Badshahi Mosque, an architectural masterpiece with elegant minarets and intricate marble work.</p>
+        <img src="TXJEdxs5Hh4.html" alt="Badshahi Mosque">
+      
+        <h2>Old City</h2>
+        <p>Get lost in the bustling streets and bazaars of the Old City, where you'll find vibrant colors, aromatic spices, and the famous Wazir Khan Mosque.</p>
+        <img src="wazir-khan-mosque-lahore-pakistan-28th-1275202219" alt="Old City">
+      
+        <h2>Shalimar Gardens</h2>
+        <p>Experience the enchanting Shalimar Gardens, a serene oasis of terraced lawns, fountains, and ancient trees.</p>
+        <img src="imgres" alt="Shalimar Gardens">
+      
+        <h2>Food Street in Gawalmandi</h2>
+        <p>Indulge in the mouthwatering Pakistani cuisine at Food Street, offering kebabs, biryanis, gol gappay, and more.</p>
+        <img src="imgres" alt="Food Street">
+      
+        <h2>Lahore Museum</h2>
+        <p>Discover the rich history and cultural heritage of Lahore at the Lahore Museum, home to art, artifacts, and historical relics.</p>
+        <img src="imgres (1)" alt="Lahore Museum">
+      
+        <h2>Gulberg</h2>
+        <p>Experience the modern side of Lahore in the vibrant neighborhood of Gulberg, with its upscale restaurants, trendy cafes, and boutique shops.</p>
+        <img src="imgres (1)" alt="Gulberg">
+      
+        <p>Lahore is a city that seamlessly blends history with modernity, offering a unique experience to its visitors.</p>
+      
+        <footer>
+          <p>Enjoy your tour of Lahore!</p>
+        </footer>
+      
+      </html>
+      
+</body>
+</html>
