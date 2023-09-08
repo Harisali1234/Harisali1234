@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Expense Calculator</title>
+</head>
+<body>
+    <h1 class="main-heading">Expense Calculator App</h1>
+    <div class="main-container">
+        
+        <div class="semi-main">
+            <div class="Income x">
+               <h4>Income</h4>
+               <h4><span id="income">0</span></h4>
+            </div>
+            <div class="Profit x">
+                <h4>Profit/Loss</h4>
+                <h4><span id="profit">0</span></h4>
+                <br><br><br>
+                
+            <input type="number" placeholder="Enter Amount" height="" class="input" id="amount"><br>
+            <div class="button">
+            <button onclick="addincome()" class="IncomeB B">Income</button>
+            <button onclick="addExpense()" class="ExpenseB B">Expense</button>
+        </div>
+             </div>
+             <div class="Loss x">
+               <h4>Expense</h4>
+               <h4><span id="expense">0</span></h4> 
+               
+           </div>
+            
+        </div>
+        
+
+    </div>
+
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>
